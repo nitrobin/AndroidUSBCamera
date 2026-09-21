@@ -1,3 +1,21 @@
+# Приложение для USB-эндоскопа на Android · открытый код
+
+Форк [jiangdongguo/AndroidUSBCamera](https://github.com/jiangdongguo/AndroidUSBCamera): починена сборка, вырезана телеметрия, добавлена сборка в Docker.
+
+**[⬇ Скачать APK](../../releases/latest)** — без рекламы, без доступа в интернет, Android 4.4+.
+
+### 📷 Купили эндоскоп FLARX в Fix Price и не нашли приложение?
+
+Камера **FLARX «на гибком проводе»** (Type-C, 5,5 мм, артикул YJ283222740) отдаёт **только несжатое видео YUYV, без MJPEG** — поэтому в большинстве приложений для эндоскопов она даёт чёрный экран. Здесь она открывается.
+
+**→ [Характеристики, фото упаковки и как опознать свою камеру](cameras/flarx-fix-price/)**
+
+Подходит и для любых других UVC-эндоскопов и USB-камер.
+
+<sub>Looking for an Android app for a cheap USB endoscope / borescope that shows a black screen in other apps? This fork works with uncompressed YUYV cameras. See [cameras/flarx-fix-price](cameras/flarx-fix-price/) — USB `349c:0411`.</sub>
+
+---
+
 ![logo.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/906db02b1dbc49669c38f870b6df2e96~tplv-k3u1fbpfcp-watermark.image?)
 
 

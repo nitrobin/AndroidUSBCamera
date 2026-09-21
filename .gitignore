@@ -10,3 +10,6 @@
 .externalNativeBuild
 .tags*
 .cxx/
+
+# APK output from docker/build.sh
+/output

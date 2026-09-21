@@ -2,7 +2,7 @@
 
 Форк [jiangdongguo/AndroidUSBCamera](https://github.com/jiangdongguo/AndroidUSBCamera): починена сборка, вырезана телеметрия, добавлена сборка в Docker.
 
-**[⬇ Скачать APK](../../releases/latest)** — без рекламы, без доступа в интернет, Android 4.4+.
+**[⬇ Скачать APK](https://github.com/nitrobin/AndroidUSBCamera/releases/latest)** — без рекламы, без доступа в интернет, Android 4.4+.
 
 ### 📷 Купили эндоскоп FLARX в Fix Price и не нашли приложение?
 
